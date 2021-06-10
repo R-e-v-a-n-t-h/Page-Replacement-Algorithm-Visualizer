@@ -9,7 +9,7 @@ Asil
 ######
 John
 
-# Page-Replacement-Algorithm-Visualizer
+# Page Replacement Algorithm Visualizer
 ### Tools Used
 React
 ######
@@ -27,3 +27,6 @@ The Algorithm switch button will toggle between FIFO and LRU algorithms and rese
 Each "paint button" adds a color which represents a page onto the frames. (Colors are used here instead of numbers in order to provide a visual treat)
 ######
 The Redo button resets the setup without changing the algorithm.
+
+# Link To The Project
+
