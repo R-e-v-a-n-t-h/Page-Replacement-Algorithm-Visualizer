@@ -1,17 +1,15 @@
 # OS Practicals Group Project
-## Page-Replacement-Algorithm-Visualizer
-### B.Tech CSE Sem 4
-
 ### Group Memebers
 Revanth
 Ielin
 Asil
 John
 
-### Tools Used:
-React
-SASS
-Bootstrap
+## Page-Replacement-Algorithm-Visualizer
+### Tools Used
+React\n
+SASS\n
+Bootstrap\n
 
 ### Brief about the project
 This project will visualize the FIFO and LRU page replacement algorithms in real time and keep track of Hits, Faults and Hit Ratio.
