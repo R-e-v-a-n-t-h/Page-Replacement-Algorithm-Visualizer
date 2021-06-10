@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Page-Replacement-Algorithm-Visualizer/static/css/main.5bf83e26.chunk.css",
+    "main.js": "/Page-Replacement-Algorithm-Visualizer/static/js/main.66979ad2.chunk.js",
+    "main.js.map": "/Page-Replacement-Algorithm-Visualizer/static/js/main.66979ad2.chunk.js.map",
+    "runtime-main.js": "/Page-Replacement-Algorithm-Visualizer/static/js/runtime-main.d7b848a0.js",
+    "runtime-main.js.map": "/Page-Replacement-Algorithm-Visualizer/static/js/runtime-main.d7b848a0.js.map",
+    "static/js/2.d21a0546.chunk.js": "/Page-Replacement-Algorithm-Visualizer/static/js/2.d21a0546.chunk.js",
+    "static/js/2.d21a0546.chunk.js.map": "/Page-Replacement-Algorithm-Visualizer/static/js/2.d21a0546.chunk.js.map",
+    "index.html": "/Page-Replacement-Algorithm-Visualizer/index.html",
+    "static/css/main.5bf83e26.chunk.css.map": "/Page-Replacement-Algorithm-Visualizer/static/css/main.5bf83e26.chunk.css.map",
+    "static/js/2.d21a0546.chunk.js.LICENSE.txt": "/Page-Replacement-Algorithm-Visualizer/static/js/2.d21a0546.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7b848a0.js",
+    "static/js/2.d21a0546.chunk.js",
+    "static/css/main.5bf83e26.chunk.css",
+    "static/js/main.66979ad2.chunk.js"
+  ]
+}
