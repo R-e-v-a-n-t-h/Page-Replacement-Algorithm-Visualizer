@@ -9,7 +9,7 @@ Asil
 ######
 John
 
-## Page-Replacement-Algorithm-Visualizer
+# Page-Replacement-Algorithm-Visualizer
 ### Tools Used
 React
 ######
