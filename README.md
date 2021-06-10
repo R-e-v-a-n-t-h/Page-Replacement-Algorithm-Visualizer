@@ -29,4 +29,5 @@ Each "paint button" adds a color which represents a page onto the frames. (Color
 The Redo button resets the setup without changing the algorithm.
 
 # Link To The Project
+https://R-e-v-a-n-t-h.github.io/Page-Replacement-Algorithm-Visualizer
 
