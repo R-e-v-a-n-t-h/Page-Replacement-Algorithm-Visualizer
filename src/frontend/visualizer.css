@@ -1,0 +1,91 @@
+.redoButton {
+  margin: 1% 3% 1% 3%;
+}
+
+.paintButton {
+  border-style: ridge;
+  border-color: rgba(41, 41, 41, 0.582);
+  border-width: 2px;
+  margin: 1% 3% 1% 3%;
+  opacity: 0.95;
+  position: -webkit-sticky;
+  position: sticky;
+  color: rgba(0, 0, 0, 0.322);
+}
+
+.paintButton:hover {
+  color: rgba(0, 0, 0, 0.637);
+}
+
+.paintButton:active {
+  color: black;
+}
+
+.framesHolder {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-item-align: center;
+      align-self: center;
+}
+
+.frame {
+  border-radius: 10px;
+  border-color: black;
+  border-width: 3px;
+  /* background-color:; */
+  margin: 3% 2% 3% 2%;
+  border-style: solid;
+}
+
+.writtenHolder {
+  display: -ms-grid;
+  display: grid;
+  justify-items: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -ms-grid-columns: auto auto;
+      grid-template-columns: auto auto;
+  margin: 3% 0% 3% 0;
+}
+
+.written {
+  font-size: 150%;
+}
+
+.hitratio {
+  font-size: 150%;
+  position: fixed;
+}
+
+.buttonGrid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto auto auto auto auto auto auto;
+      grid-template-columns: auto auto auto auto auto auto auto auto;
+  justify-items: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  background-color: rgba(97, 97, 97, 0.123);
+  padding: 0.4%;
+  border-radius: 10px;
+}
+
+@media (max-width: 415px) {
+  .buttonGrid {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
+    justify-items: center;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    background-color: rgba(97, 97, 97, 0.123);
+    padding: 0.4%;
+    border-radius: 10px;
+  }
+}
+/*# sourceMappingURL=visualizer.css.map */

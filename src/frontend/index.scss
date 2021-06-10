@@ -1,0 +1,14 @@
+.title{
+    color:black;
+    text-align:center;
+}
+
+body{
+    background-color:aliceblue;
+}
+
+@media (max-width: 570px){
+    .title{
+        font-size:5vw;
+    }
+}
