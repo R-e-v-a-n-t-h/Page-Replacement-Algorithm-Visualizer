@@ -7,9 +7,9 @@ John
 
 ## Page-Replacement-Algorithm-Visualizer
 ### Tools Used
-React\n
-SASS\n
-Bootstrap\n
+React
+SASS
+Bootstrap
 
 ### Brief about the project
 This project will visualize the FIFO and LRU page replacement algorithms in real time and keep track of Hits, Faults and Hit Ratio.
