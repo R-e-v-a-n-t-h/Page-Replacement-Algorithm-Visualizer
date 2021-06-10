@@ -1,5 +1,5 @@
-# Page-Replacement-Algorithm-Visualizer
-## OS Practicals Group Project
+# OS Practicals Group Project
+## Page-Replacement-Algorithm-Visualizer
 ### B.Tech CSE Sem 4
 
 ### Group Memebers
