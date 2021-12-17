@@ -1,13 +1,5 @@
 # OS Practicals Group Project
 ######
-### Group Memebers
-Revanth
-######
-Ielin
-######
-Asil
-######
-John
 
 # Page Replacement Algorithm Visualizer
 ### Tools Used
